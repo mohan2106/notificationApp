@@ -18,6 +18,6 @@
     "multer": "^0.1.8",
     "cookie-session": "^1.1.0",
     "gcloud": "^0.14.0",
-    "googleapis": "^2.0.3"
+    "googleapis": "^59.0.0"
   }
 }
